@@ -1,6 +1,6 @@
-# Telemetria Formula 1 🏁
+# 🏁 Telemetria Formula 1 - Modelado Relacional y Dimensional 
 
-👋 El propósito de este proyecto es simular la implementación de un software para la gestión de carreras de autos de Fórmula 1, teniendo como principal función la recolección y centralización de información de telemetría generada por los sensores de los autos de las distintas escuderías.
+👋 El propósito de este proyecto es simular un software de Fórmula 1, el cual recopila telemetría generada por los sensores de los autos de distintas escuderías.
 
 ![imagen-f1](images/f1.png)
 
